@@ -1,0 +1,23 @@
+<!-- Cabeçalho - Início -->
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<title>Loucademia</title>
+	</head>
+	<body>
+		<header>
+			<img src="images/logo-saimoveis.jpg">
+			<nav>
+				<div>
+					<a href="novo">Novo Aluno</a><br>
+				</div>
+			</nav>
+		
+		</header>
+		
+	
+	</body>
+
+
+
+<!-- Cabeçalho - Fim -->

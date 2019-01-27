@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Fabio\Documents\GitHub\Loucademia\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3920224306.index
+1185411284.index
+1581659942.index
+2641648362.index
+3882921376.index
+3311166173.index
+771116488.index
