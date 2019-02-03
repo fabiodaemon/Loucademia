@@ -19,9 +19,28 @@
 		</header>
 <!-- Cabeçalho - Fim -->
 
-	<h1>Novo Aluno</h1>
+
+	<h1>Relatórios de Situações</h1>
 	
 	<div id="infoMessage"> Aqui vai eventual mensagem de sistema confirmando sucesso ou nao</div>
+	 
+	 <form>
+	 
+	 	<fieldset>
+	 		<legend>Parâmetros de Pesquisa</legend>
+			
+			<label for="situacao">Situação</label><br>
+			<select name="situacao" id="situacao">
+				<option>Ativo</option>
+				<option>Inativo</option>
+				<option>Em pendência</option>
+			</select>
+	 	
+	 	</fieldset>
+	 
+	 	<input type="submit" value="Gerar Relatório">
+	 </form>
+
 
 <!-- Rodapé - Início -->
 </body>

@@ -1,0 +1,62 @@
+<!-- Cabeçalho - Início -->
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<title>Loucademia</title>
+	</head>
+	<body>
+		<header>
+			<img src="images/logo-saimoveis.jpg">
+			<nav>
+				<div>
+					<a href="novoAluno.html">Novo Aluno</a><br>
+					<a href="pesquisaDeAluno.html">Pesquisa de Aluno</a><br>
+					<a href="controleDeAcesso.html">Controle de Acesso</a><br>
+					<a href="relatoriosDeEntradaSaída.html">Relatórios de Entradas e Saídas</a><br>
+					<a href="relatoriosDeSituacoes.html">Relatórios de Situações</a><br>
+				</div>
+			</nav>
+		</header>
+<!-- Cabeçalho - Fim -->
+
+
+	<h1>Relatórios de Situações</h1>
+	
+	<div id="infoMessage"> Aqui vai eventual mensagem de sistema confirmando sucesso ou nao</div>
+	 
+	 <form>
+	 
+	 	<fieldset>
+	 		<legend>Parâmetros de Pesquisa</legend>
+			
+			<label for="situacao">Situação</label><br>
+			<select name="situacao" id="situacao">
+				<option>Ativo</option>
+				<option>Inativo</option>
+				<option>Em pendência</option>
+			</select>
+	 	
+	 	</fieldset>
+	 
+	 	<input type="submit" value="Gerar relatório">
+	 	
+	 </form>
+	 
+	 <table>
+	 	
+	 	<tr>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 	</tr>
+	 
+	 </table>
+
+
+<!-- Rodapé - Início -->
+</body>
+</html>
+<!-- Rodapé - Fim -->

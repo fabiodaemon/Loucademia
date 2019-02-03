@@ -1,10 +1,8 @@
 INDEX VERSION 1.4+C:\Users\Fabio\Documents\GitHub\Loucademia\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 1581659942.index
-2641648362.index
-213457547.index
-1185411284.index
-771116488.index
-3311166173.index
 3882921376.index
+1185411284.index
+3311166173.index
 3920224306.index
+771116488.index
 2641648362.index

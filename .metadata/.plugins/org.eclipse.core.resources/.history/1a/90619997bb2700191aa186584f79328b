@@ -19,16 +19,25 @@
 		</header>
 <!-- Cabeçalho - Fim -->
 
-	<h1>Novo Aluno</h1>
+	<h1>Controle de Acesso</h1>
 	
 	<div id="infoMessage"> Aqui vai eventual mensagem de sistema confirmando sucesso ou nao</div>
-	
-	<br>
-	
-	<form>
-	
-	
-	</form>
+	 
+	 <form>
+	 
+	 	<fieldset>
+	 	
+	 		<legend>Controle de Acesso</legend>
+	 		<label for="nome">ID</label> <br>
+			<input type="text" name="id" id="id"><br>
+	 
+			<label for="nome">RG</label> <br>
+			<input type="text" name="rg" id="rg"><br>
+	 	
+	 	</fieldset>
+	 
+	 	<input type="submit" value="Registrar acesso">
+	 </form>
 
 <!-- Rodapé - Início -->
 </body>

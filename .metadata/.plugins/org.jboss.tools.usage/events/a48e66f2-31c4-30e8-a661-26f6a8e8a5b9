@@ -1,11 +1,11 @@
-#Fri Feb 01 22:54:29 BRST 2019
+#Sun Feb 03 11:58:04 BRST 2019
 vl=How many times the 'Finish' button pressed during the day
 l=Wizard class name
 ct=jbt
-d=1549068869485
+d=1549202284155
 c=0
 cmp=usage
 a=finishWizard
 cl=org.eclipse.wst.html.ui.internal.wizard.NewHTMLWizard
 v=2.2.201
-s=2
+s=1
