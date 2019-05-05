@@ -1,0 +1,22 @@
+client tier -> camada cliente
+JSF -> responsavel por montar pages dinamicas para o client
+business tier -> logica de negocio. camada de negocios. nela esta o EJB+JPA+CDI
+
+enum: variavel q so pode ser definida conforme uma lista possivel
+ex: public enum Cor {vermelho, verde, azul}
+
+Por boas práticas, devemos apontar que o atributo seja integrer para evitar problemas quando mapear no banco de dados. Ex: colocar um valor null no BD porém no java se for INT terá problemas pois este não aceita null!
+
+metodo tostring faz com que na hora do debug nao retorne endereço de memoria e sim a String propriamente referenciada.
+
+Toda entidade precisa implementar uma inferface (serialize)
+
+Toda entidade tem q ter um ID
+
+vc pode criar mapeamento da JPA para o BD e o vc tb pode fazer com q a JPA faça a criação do BD
+
+vc pode fazer validação do BD através a JPA através do Data Management Connectivity, driver mysql JDBC
+
+
+
+
